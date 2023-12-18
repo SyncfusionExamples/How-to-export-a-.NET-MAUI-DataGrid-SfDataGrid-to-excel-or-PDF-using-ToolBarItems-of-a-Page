@@ -11,11 +11,11 @@
     
     <ContentPage.ToolbarItems WidthRequest="100"
                               HeightRequest="50">
-        <ToolbarItem Text="DOWNLOADASEXCEL"
+        <ToolbarItem Text="ExportToExcel"
                      Order="Primary"
                      Priority="0"
                      Clicked="ToolbarItem_Clicked"/>
-        <ToolbarItem Text="DOWNLOADASPDF"
+        <ToolbarItem Text="ExportToPdf"
                      Order="Primary"
                      Priority="0"
                      Clicked="ToolbarItem_Clicked_1" />
